@@ -1,2 +1,6 @@
 # OpenHaus
-IoT Server for interaction with various devices
+
+## Components
+- Server (Backend)
+- Adapter (Protocol implmentation)
+- Frontend (User interface)
